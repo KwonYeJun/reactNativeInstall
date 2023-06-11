@@ -71,8 +71,7 @@ const App: () => Node = () => {
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
           <Section title="Step One">
-            Edit <Text style={styles.highlight}>App.js</Text> to change this
-            screen and then come back to see your edits.
+            Edit <Text style={styles.highlight}>App.js</Text> 8시간만에.. 드디어 hello world를 띄운다..
           </Section>
           <Section title="See Your Changes">
             <ReloadInstructions />
